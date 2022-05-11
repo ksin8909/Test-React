@@ -1,0 +1,12 @@
+{
+  "title": "TEST DAPP",
+  "home": {
+    "title": "Home"
+  },
+  "metamask": {
+    "button_connect": "Connect MetaMask",
+    "button_disconnect": "Disconnect",
+    "button_getcontract": "Get Contract Info",
+    "button_collection": "My Collection"
+  }
+}
