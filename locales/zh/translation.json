@@ -1,0 +1,12 @@
+{
+  "title": "測試 DAPP",
+  "home": {
+    "title": "主頁"
+  },
+  "metamask": {
+    "button_connect": "連接 MetaMask",
+    "button_disconnect": "斷開連接",
+    "button_getcontract": "獲取合約信息",
+    "button_collection": "我的收藏"
+  }
+}
