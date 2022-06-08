@@ -1,7 +1,9 @@
 {
   "title": "Test React",
   "home": {
-    "title": "Home"
+    "title": "Home",
+    "more": "More",
+    "view_more": "View More"
   },
   "metamask": {
     "button_connect": "Connect MetaMask",

@@ -1,7 +1,9 @@
 {
   "title": "測試 React",
   "home": {
-    "title": "主頁"
+    "title": "主頁",
+    "more": "更多",
+    "view_more": "查看更多"
   },
   "metamask": {
     "button_connect": "連接 MetaMask",
