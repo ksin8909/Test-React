@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Test-React/static/css/main.368b4599.css",
-    "main.js": "/Test-React/static/js/main.48479667.js",
+    "main.js": "/Test-React/static/js/main.01f24c06.js",
     "static/js/937.a617daa3.chunk.js": "/Test-React/static/js/937.a617daa3.chunk.js",
     "static/js/787.0f148dca.chunk.js": "/Test-React/static/js/787.0f148dca.chunk.js",
     "static/media/revicons.eot": "/Test-React/static/media/revicons.a77de540a38981833f9e.eot",
@@ -10,12 +10,12 @@
     "index.html": "/Test-React/index.html",
     "static/media/getFetch.cjs": "/Test-React/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.368b4599.css.map": "/Test-React/static/css/main.368b4599.css.map",
-    "main.48479667.js.map": "/Test-React/static/js/main.48479667.js.map",
+    "main.01f24c06.js.map": "/Test-React/static/js/main.01f24c06.js.map",
     "937.a617daa3.chunk.js.map": "/Test-React/static/js/937.a617daa3.chunk.js.map",
     "787.0f148dca.chunk.js.map": "/Test-React/static/js/787.0f148dca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.368b4599.css",
-    "static/js/main.48479667.js"
+    "static/js/main.01f24c06.js"
   ]
 }
