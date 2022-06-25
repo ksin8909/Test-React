@@ -1,7 +1,30 @@
 {
   "title": "Test React",
+  "lang": "Lang",
+  "pages": {
+    "all": "All",
+    "smart_contract": "Smart Contract",
+    "wallet": "Wallet"
+  },
   "home": {
     "title": "Home",
+    "more": "More",
+    "view_more": "View More",
+    "leader_title": "Test React",
+    "leader_text": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+  },
+  "dapp": {
+    "title": "DAPP",
+    "more": "More",
+    "view_more": "View More"
+  },
+  "effect": {
+    "title": "Effect",
+    "more": "More",
+    "view_more": "View More"
+  },
+  "full_stack": {
+    "title": "Full Stack",
     "more": "More",
     "view_more": "View More"
   },

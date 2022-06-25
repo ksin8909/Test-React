@@ -1,7 +1,30 @@
 {
   "title": "測試 React",
+  "lang": "語言",
+  "pages": {
+    "all": "全部",
+    "smart_contract": "智能合約",
+    "wallet": "錢包"
+  },
   "home": {
     "title": "主頁",
+    "more": "更多",
+    "view_more": "查看更多",
+    "leader_title": "測試 React",
+    "leader_text": "React 讓實作互動式的使用者介面變得一點也不痛苦。你只要在你的應用程式中為每個情境設計一個簡單的 view，React 就會在資料變更時有效率的自動更新並 render 有異動的元件。"
+  },
+  "dapp": {
+    "title": "DAPP",
+    "more": "更多",
+    "view_more": "查看更多"
+  },
+  "effect": {
+    "title": "動態效果",
+    "more": "更多",
+    "view_more": "查看更多"
+  },
+  "full_stack": {
+    "title": "全端",
     "more": "更多",
     "view_more": "查看更多"
   },
