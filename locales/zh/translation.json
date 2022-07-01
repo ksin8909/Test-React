@@ -4,7 +4,9 @@
   "pages": {
     "all": "全部",
     "smart_contract": "智能合約",
-    "wallet": "錢包"
+    "wallet": "錢包",
+    "crud": "CRUD",
+    "app": "Retive Native App"
   },
   "home": {
     "title": "主頁",
@@ -33,5 +35,8 @@
     "button_disconnect": "斷開連接",
     "button_getcontract": "獲取合約信息",
     "button_collection": "我的收藏"
+  },
+  "reactnativemap": {
+    "download": "下載 APK 檔案"
   }
 }

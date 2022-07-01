@@ -4,7 +4,9 @@
   "pages": {
     "all": "All",
     "smart_contract": "Smart Contract",
-    "wallet": "Wallet"
+    "wallet": "Wallet",
+    "crud": "CRUD",
+    "app": "Retive Native App"
   },
   "home": {
     "title": "Home",
@@ -33,5 +35,8 @@
     "button_disconnect": "Disconnect",
     "button_getcontract": "Get Contract Info",
     "button_collection": "My Collection"
+  },
+  "reactnativemap": {
+    "download": "Download APK File"
   }
 }
