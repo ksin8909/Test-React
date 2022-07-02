@@ -38,5 +38,8 @@
   },
   "reactnativemap": {
     "download": "Download APK File"
+  },
+  "auth": {
+    "signout": "Sign Out"
   }
 }
