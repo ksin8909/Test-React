@@ -6,6 +6,7 @@
     "smart_contract": "智能合約",
     "wallet": "錢包",
     "crud": "CRUD",
+    "auth": "Auth",
     "app": "Retive Native App"
   },
   "home": {
@@ -38,8 +39,5 @@
   },
   "reactnativemap": {
     "download": "下載 APK 檔案"
-  },
-  "auth": {
-    "signout": "登出"
   }
 }

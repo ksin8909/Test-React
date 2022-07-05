@@ -6,6 +6,7 @@
     "smart_contract": "Smart Contract",
     "wallet": "Wallet",
     "crud": "CRUD",
+    "auth": "Auth",
     "app": "Retive Native App"
   },
   "home": {
@@ -38,8 +39,5 @@
   },
   "reactnativemap": {
     "download": "Download APK File"
-  },
-  "auth": {
-    "signout": "Sign Out"
   }
 }
