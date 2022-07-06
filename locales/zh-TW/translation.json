@@ -33,9 +33,25 @@
   },
   "metamask": {
     "button_connect": "連接 MetaMask",
-    "button_disconnect": "斷開連接",
+    "button_disconnect": "中斷連接",
     "button_getcontract": "獲取合約信息",
-    "button_collection": "我的收藏"
+    "button_collection": "我的收藏",
+    "my_account": "我的帳戶",
+    "address": "地址",
+    "eth_balance": "ETH 結餘",
+    "chain_id": "鏈 Id",
+    "chain_name": "鏈名稱"
+  },
+  "walletconnect": {
+    "button_connect": "連接 WallletConnect",
+    "button_disconnect": "中斷連接",
+    "button_getcontract": "獲取合約信息",
+    "button_collection": "我的收藏",
+    "my_account": "我的帳戶",
+    "address": "地址",
+    "eth_balance": "ETH 結餘",
+    "chain_id": "鏈 Id",
+    "chain_name": "鏈名稱"
   },
   "reactnativemap": {
     "download": "下載 APK 檔案"

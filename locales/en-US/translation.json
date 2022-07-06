@@ -35,7 +35,23 @@
     "button_connect": "Connect MetaMask",
     "button_disconnect": "Disconnect",
     "button_getcontract": "Get Contract Info",
-    "button_collection": "My Collection"
+    "button_collection": "My Collection",
+    "my_account": "My Account",
+    "address": "Address",
+    "eth_balance": "ETH Balance",
+    "chain_id": "Chain Id",
+    "chain_name": "Chain Name"
+  },
+  "walletconnect": {
+    "button_connect": "Connect WallletConnect",
+    "button_disconnect": "Disconnect",
+    "button_getcontract": "Get Contract Info",
+    "button_collection": "My Collection",
+    "my_account": "My Account",
+    "address": "Address",
+    "eth_balance": "ETH Balance",
+    "chain_id": "Chain Id",
+    "chain_name": "Chain Name"
   },
   "reactnativemap": {
     "download": "Download APK File"
