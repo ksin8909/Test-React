@@ -53,6 +53,15 @@
     "chain_id": "鏈 Id",
     "chain_name": "鏈名稱"
   },
+  "coinbasewallet": {
+    "button_connect": "連接 Coinbase Walllet",
+    "button_disconnect": "中斷連接",
+    "my_account": "我的帳戶",
+    "address": "地址",
+    "eth_balance": "ETH 結餘",
+    "chain_id": "鏈 Id",
+    "chain_name": "鏈名稱"
+  },
   "reactnativemap": {
     "download": "下載 APK 檔案"
   }
