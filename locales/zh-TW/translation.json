@@ -7,6 +7,7 @@
     "wallet": "錢包",
     "crud": "CRUD",
     "auth": "Auth",
+    "qr": "QR",
     "app": "Retive Native App"
   },
   "home": {
