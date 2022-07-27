@@ -64,6 +64,11 @@
     "chain_name": "Chain Name"
   },
   "reactnativemap": {
-    "download": "Download APK File"
+    "download": "Download APK File",
+    "screenshot": "Screenshot"
+  },
+  "reactnativeqrcodescanner": {
+    "download": "Download APK File",
+    "screenshot": "Screenshot"
   }
 }

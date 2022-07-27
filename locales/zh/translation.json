@@ -64,6 +64,11 @@
     "chain_name": "鏈名稱"
   },
   "reactnativemap": {
-    "download": "下載 APK 檔案"
+    "download": "下載 APK 檔案",
+    "screenshot": "截屏"
+  },
+  "reactnativeqrcodescanner": {
+    "download": "下載 APK 檔案",
+    "screenshot": "截屏"
   }
 }
